@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ActionModal /> test cases matches snapshot 1`] = `
+<div
+  className="Task__ModalBackground-sc-7z955n-4 bcpqJ"
+  onClick={[Function]}
+>
+  <div
+    className="Task__ModalWrapper-sc-7z955n-5 bVHENH"
+  >
+    <div
+      className="Task__ModalTitle-sc-7z955n-6 iXNurm"
+      data-testid="title"
+    >
+      <img
+        alt="alert"
+        className="Task__ModalTitleAlert-sc-7z955n-7 dTZvCu"
+        src="images/alert.jpg"
+        width="20"
+      />
+      <strong>
+        Action modal title
+      </strong>
+    </div>
+    <div
+      className="Task__ModalContent-sc-7z955n-8 jtmxWF"
+    />
+    <div
+      className="Task__ModalAction-sc-7z955n-9 byNCQS"
+    >
+      <button
+        className="Task__ButtonConfirm-sc-7z955n-10 igynex"
+        data-testid="confirm-button"
+        onClick={[MockFunction]}
+      >
+        <strong>
+          Confirm
+        </strong>
+      </button>
+      <button
+        className="Task__ButtonCancel-sc-7z955n-11 zWqzm"
+        data-testid="cancel-button"
+        onClick={[Function]}
+      >
+        <strong>
+          Cancel
+        </strong>
+      </button>
+    </div>
+  </div>
+</div>
+`;
