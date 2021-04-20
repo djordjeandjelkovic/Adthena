@@ -67,7 +67,6 @@
         "argsIgnorePattern": "^.*_"
       }
     ],
-    "linebreak-style": ["error", "windows"]
   },
   "globals": {
     "location": true
